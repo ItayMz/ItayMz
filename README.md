@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Itay</h1>
-<h3 align="center">raelA passionate full stack developer from Is</h3>
+<h3 align="center">I am a passionate full stack developer from Israel</h3>
 
 - 📫 How to reach me **itaymz97@gmail.com**
 
