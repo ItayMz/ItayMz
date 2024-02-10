@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Itay</h1>
 <h3 align="center">I am a passionate full stack developer from Israel</h3>
 
-- 📫 How to reach me **itaymz97@gmail.com**
+- 📫 How to reach me **itaymz.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
